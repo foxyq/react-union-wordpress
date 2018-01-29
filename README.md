@@ -8,6 +8,17 @@ Copy the files as a theme into existing Wordpress installation (preferably clean
 
 ## Changes in theme
 
+### Added Javacript files for React-Union
+
+Located in directory ```assets/js```
+
+```sh
+content.widget.7c6da7f3.chunk.js
+hero.widget.d6ff002c.chunk.js
+SampleApp.bundle.js
+vendor.bundle.js
+```
+
 ### Functions.php
 
 Included core files for React-Union, lines 457-458
